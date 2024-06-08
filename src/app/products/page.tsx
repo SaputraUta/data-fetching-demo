@@ -1,5 +1,5 @@
 // export const fetchCache = 'default-cache';
-import { cookies } from "next/headers";
+// import { cookies } from "next/headers";
 
 type Product = {
     id: number;
